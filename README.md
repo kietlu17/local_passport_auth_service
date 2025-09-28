@@ -37,6 +37,8 @@ Các hình ảnh minh họa kết quả test API nằm trong thư mục `public/
 #### Xem profile
 ![profile](public/results/profile.png)
 ![user](public/results/user.png)
+
+#### Xem session
 ![sesion](public/results/sesion.png)
 
 #### Đăng xuất
